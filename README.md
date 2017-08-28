@@ -1,3 +1,5 @@
+# NESTUD-190A #
+
 This folder contains the module created by Aditya Sheth and Ronald Walker for Adam Anderson and his class NES 190, Intro to Digital Humanities. Our created notebooks educated students on various topics related to text and web data analysis. Our team assisted students in analyzing their various data sets regarding ancient and modern European and Asian civilizations. 
 
 Covered topics include Python's NLTK, Regular Expressions, Bokeh Visualizations, Basic Network Analysis, ArcGIS Geospatial mapping, datascience, pandas, matplotlib Libraries, translation Library, Polyglot translation library, etc. 
